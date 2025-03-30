@@ -1,6 +1,6 @@
 # Restaurant_Jiho_App
 App for restaurant business
-
+## Description
 Our friend Jiho is trying to get into the restaurant business. He asked us to build a simple table assignment program to help manage which customer is assigned to each table in the restaurant. 
 Jiho wants to store not only the name of the customer for the table but also if they hold a VIP status (earned by visiting the restaurant frequently).
 Jiho wants to expand application to also take orders from customers.
@@ -20,3 +20,7 @@ Here is some additional functionality that Jiho might like:
     -An adjustment to the calculate_price_per_person() function to access a tables 'total' and return the result.
     -The ability to add and remove order items for both food and drinks if there is ever a mistake.
     -The ability to queue reservations for later times for specific tables.
+## Technology
+Python, Visual Studio Code
+## Collaborators
+codecademy.com
